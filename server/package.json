@@ -1,0 +1,16 @@
+{
+  "name": "DouKnw",
+  "version": "1.0.0",
+  "description": "A trivia contest app for a group of people",
+  "main": "server.js",
+  "author": "Jude Ganihu",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "socket.io": "2.0.4",
+    "lodash": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
