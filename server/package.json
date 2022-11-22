@@ -7,7 +7,7 @@
   "private": true,
   "license": "MIT",
   "dependencies": {
-    "socket.io": "2.0.4",
+    "socket.io": "2.5.0",
     "lodash": "*"
   },
   "scripts": {
